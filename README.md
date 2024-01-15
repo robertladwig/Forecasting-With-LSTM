@@ -1,5 +1,7 @@
 ## Chlorophyll-a forecasting using LSTM Model
 
+#### Note (Jan 16, 2024): The data files have not been released yet, as it needs approval
+
 ### Getting started:
 
 1. Before running the notebook, please make sure to have the following python version and libraries are installed <br>
